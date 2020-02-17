@@ -62,7 +62,3 @@ Once you get a test passing, you can enable the next one by removing the
 ## Source
 
 James Kilfiger, using wikipedia [https://en.wikipedia.org/wiki/Yacht_(dice_game)](https://en.wikipedia.org/wiki/Yacht_(dice_game))
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
